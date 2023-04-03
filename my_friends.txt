@@ -1,0 +1,5 @@
+class*friends
+childhoodfriend*kiran
+childhoodfriend*raju
+childhoodfriend*arun
+childhoodfriend*sanju
