@@ -1,0 +1,4 @@
+fooditems\taste
+chickenbiryani\spicy
+mango\sweet
+noodles\hot
